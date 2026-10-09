@@ -26,11 +26,15 @@ This repository is meant for practice, learning, and showcasing mini-projects.
 Navigate to the project folder:
 
 bash
+```bash
 cd HTML-CSS-JS-projects
+```
 Open the desired project (e.g., mini_calendar) in your browser:
 
 bash
+```bash
 open mini_calendar/index.html
+```
 🛠️ Technologies Used
 HTML5
 
