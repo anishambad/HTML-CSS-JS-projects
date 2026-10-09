@@ -25,22 +25,21 @@ This repository is meant for practice, learning, and showcasing mini-projects.
    git clone https://github.com/anishambad/HTML-CSS-JS-projects.git
 Navigate to the project folder:
 
-bash
+
 ```bash
 cd HTML-CSS-JS-projects
 ```
 Open the desired project (e.g., mini_calendar) in your browser:
 
-bash
+
 ```bash
 open mini_calendar/index.html
 ```
 🛠️ Technologies Used
-HTML5
 
-CSS3
-
-JavaScript (ES6+)
+- HTML5
+- CSS3
+- JavaScript (ES6+)
 
 📜 License
 This project is licensed under the MIT License.
