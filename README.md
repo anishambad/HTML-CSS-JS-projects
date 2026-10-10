@@ -45,12 +45,6 @@ open mini_calendar/index.html
 This project is licensed under the MIT License.
 Feel free to use, modify, and share!
 
-✨ Future Plans
-Add more mini-projects (e.g., To-Do App, Stopwatch, Weather App)
-
-Improve UI with responsive design
-
-Include beginner-friendly documentation
 
 👨‍💻 Author
 Anish Ambad  
